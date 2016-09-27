@@ -1,4 +1,4 @@
-//ARRAY 
+//ARRAY
 // alert("Array");
 
 // var cars = ["mehran","civic","city","corola","parado","surf","doublecabin","bmw","suzuki","honda"];
@@ -61,8 +61,9 @@
 // document.write("<br>");
 
 
-var num = parseInt(prompt("Enter you value","Here"));
-if (  )
-
+var a = parseInt(prompt("Enter any number","Here"));
+for (x=1; x<=10; x++) {
+     document.write( a + " * " + x + " = " + ( a * x ) + "<br>" );
+ }
 
 
